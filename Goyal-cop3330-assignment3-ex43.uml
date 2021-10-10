@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>C:/Users/19548/IdeaProjects/Goyal-cop3330-assignment3-ex43</OriginalElement>
+  <nodes>
+    <node x="0.0" y="284.0">ex43.CreateSiteStructureTest</node>
+    <node x="297.0" y="0.0">ex43.WebsiteGenerator</node>
+    <node x="6.5" y="0.0">ex43.CreateSiteStructure</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ex43.CreateSiteStructureTest" target="ex43.CreateSiteStructure" relationship="TO_ONE">
+      <point x="63.0" y="-84.0" />
+      <point x="189.0" y="259.0" />
+      <point x="185.75" y="259.0" />
+      <point x="59.75" y="117.0" />
+    </edge>
+    <edge source="ex43.CreateSiteStructureTest" target="ex43.CreateSiteStructure" relationship="CREATE">
+      <point x="-63.0" y="-84.0" />
+      <point x="63.0" y="259.0" />
+      <point x="66.25" y="259.0" />
+      <point x="-59.75" y="117.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="true" x="284.0" y="226.0" />
+  <SelectedNodes>
+    <node>ex43.CreateSiteStructureTest</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
